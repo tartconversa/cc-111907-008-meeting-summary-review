@@ -1,0 +1,4 @@
+meeting_id,team,start_utc,project_id
+m1,alpha,2026-11-18T09:00:00Z,p-1
+m2,alpha,2026-11-18T14:00:00Z,p-1
+m3,beta,2026-11-19T09:00:00Z,p-2

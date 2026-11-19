@@ -1,0 +1,4 @@
+summary_id,meeting_id,version,created_utc,source_hash
+s1,m1,1,2026-11-18T10:00:00Z,h-a
+s2,m1,2,2026-11-18T11:00:00Z,h-b
+s3,m2,1,2026-11-18T15:00:00Z,h-c
