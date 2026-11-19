@@ -1,0 +1,23 @@
+[
+  {
+    "id": "R1",
+    "proposal": "A1",
+    "reviewer": "Q1",
+    "label": "accepted",
+    "received": "2026-11-17T00:00:00Z"
+  },
+  {
+    "id": "R2",
+    "proposal": "A1",
+    "reviewer": "Q2",
+    "label": "extra",
+    "received": "2026-11-17T01:00:00Z"
+  },
+  {
+    "id": "R3",
+    "proposal": "A2",
+    "reviewer": "Q3",
+    "label": "unknown",
+    "received": "2026-11-17T00:00:00Z"
+  }
+]

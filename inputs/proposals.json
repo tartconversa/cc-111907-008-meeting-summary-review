@@ -1,0 +1,250 @@
+[
+  {
+    "proposal": "A0",
+    "summary": "S0",
+    "subject": "核对下周交付",
+    "kind": "suggestion",
+    "impact": "high",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A1",
+    "summary": "S1",
+    "subject": "项目资料整理1",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A2",
+    "summary": "S2",
+    "subject": "项目资料整理2",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A3",
+    "summary": "S3",
+    "subject": "项目资料整理3",
+    "kind": "suggestion",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A4",
+    "summary": "S4",
+    "subject": "核对下周交付",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A5",
+    "summary": "S5",
+    "subject": "项目资料整理5",
+    "kind": "decision",
+    "impact": "high",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A6",
+    "summary": "S6",
+    "subject": "项目资料整理6",
+    "kind": "suggestion",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A7",
+    "summary": "S7",
+    "subject": "项目资料整理7",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A8",
+    "summary": "S8",
+    "subject": "核对下周交付",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A9",
+    "summary": "S9",
+    "subject": "项目资料整理9",
+    "kind": "suggestion",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A10",
+    "summary": "S10",
+    "subject": "项目资料整理10",
+    "kind": "decision",
+    "impact": "high",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A11",
+    "summary": "S11",
+    "subject": "项目资料整理11",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A12",
+    "summary": "S12",
+    "subject": "核对下周交付",
+    "kind": "suggestion",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A13",
+    "summary": "S13",
+    "subject": "项目资料整理13",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A14",
+    "summary": "S14",
+    "subject": "项目资料整理14",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A15",
+    "summary": "S15",
+    "subject": "项目资料整理15",
+    "kind": "suggestion",
+    "impact": "high",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A16",
+    "summary": "S16",
+    "subject": "核对下周交付",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A17",
+    "summary": "S17",
+    "subject": "项目资料整理17",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A18",
+    "summary": "S18",
+    "subject": "项目资料整理18",
+    "kind": "suggestion",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A19",
+    "summary": "S19",
+    "subject": "项目资料整理19",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A20",
+    "summary": "S20",
+    "subject": "核对下周交付",
+    "kind": "decision",
+    "impact": "high",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A21",
+    "summary": "S21",
+    "subject": "项目资料整理21",
+    "kind": "suggestion",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A22",
+    "summary": "S22",
+    "subject": "项目资料整理22",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A23",
+    "summary": "S23",
+    "subject": "项目资料整理23",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A24",
+    "summary": "S24",
+    "subject": "核对下周交付",
+    "kind": "suggestion",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A25",
+    "summary": "S25",
+    "subject": "项目资料整理25",
+    "kind": "decision",
+    "impact": "high",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A26",
+    "summary": "S26",
+    "subject": "项目资料整理26",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A27",
+    "summary": "S27",
+    "subject": "项目资料整理27",
+    "kind": "suggestion",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A28",
+    "summary": "S28",
+    "subject": "核对下周交付",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U2"
+  },
+  {
+    "proposal": "A29",
+    "summary": "S29",
+    "subject": "项目资料整理29",
+    "kind": "decision",
+    "impact": "low",
+    "owner": "U1"
+  },
+  {
+    "proposal": "A0b",
+    "summary": "S0b",
+    "subject": "建议下周再核对交付",
+    "kind": "suggestion",
+    "impact": "high",
+    "owner": "U2"
+  }
+]

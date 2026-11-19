@@ -1,0 +1,37 @@
+[
+  {
+    "user": "U1",
+    "project": "P1",
+    "role": "owner"
+  },
+  {
+    "user": "U2",
+    "project": "P2",
+    "role": "owner"
+  },
+  {
+    "user": "U3",
+    "project": "P1",
+    "role": "executor"
+  },
+  {
+    "user": "U4",
+    "project": "P2",
+    "role": "executor"
+  },
+  {
+    "user": "Q1",
+    "project": "P1",
+    "role": "reviewer"
+  },
+  {
+    "user": "Q2",
+    "project": "P1",
+    "role": "reviewer"
+  },
+  {
+    "user": "Q3",
+    "project": "P2",
+    "role": "reviewer"
+  }
+]

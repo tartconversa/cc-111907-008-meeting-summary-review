@@ -1,0 +1,9 @@
+[
+  {
+    "id": "P1",
+    "minutes_available": 120,
+    "minutes_per_review": 10,
+    "ordinary_fraction": 0.25,
+    "confidence": 0.95
+  }
+]

@@ -1,3 +1,0 @@
-review_id,action_id,reviewer,decision,occurred_utc
-r1,a1,u-3,rewritten,2026-11-18T12:00:00Z
-r2,a2,u-3,unclear,2026-11-18T12:05:00Z

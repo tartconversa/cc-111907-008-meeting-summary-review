@@ -1,0 +1,60 @@
+{
+  "meetings": {
+    "definition": "真实业务会议元数据。",
+    "columns": {
+      "meeting": "会议",
+      "project": "项目",
+      "team": "团队",
+      "type": "例会/review",
+      "start": "开始"
+    }
+  },
+  "summaries": {
+    "definition": "同会议可重跑，版本不构成新的业务确认。",
+    "columns": {
+      "summary": "摘要",
+      "meeting": "会议",
+      "version": "版本",
+      "received": "已知时刻"
+    }
+  },
+  "proposals": {
+    "definition": "来源摘录为合成文本，仅提供语义事实不提供合并答案。",
+    "columns": {
+      "proposal": "提案",
+      "summary": "摘要",
+      "subject": "描述",
+      "kind": "suggestion/decision",
+      "impact": "low/high",
+      "owner": "被提及负责人"
+    }
+  },
+  "members": {
+    "definition": "角色权限按项目决定。",
+    "columns": {
+      "user": "用户",
+      "project": "项目",
+      "role": "owner/executor/reviewer"
+    }
+  },
+  "reviews": {
+    "definition": "人工标注尚不代表项目负责人承诺。",
+    "columns": {
+      "id": "标注",
+      "proposal": "提案",
+      "reviewer": "复核员",
+      "label": "accepted/extra/missing/duplicate/owner/unknown",
+      "received": "时刻"
+    }
+  },
+  "review_policy": {
+    "definition": "默认资源和已知抽样元数据，后续计划由使用者登记。",
+    "columns": {
+      "id": "版本",
+      "minutes_available": "本轮可用分钟",
+      "minutes_per_review": "单次预计分钟",
+      "ordinary_fraction": "普通样本最低比例",
+      "confidence": "报告水平"
+    }
+  }
+}

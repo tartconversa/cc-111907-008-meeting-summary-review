@@ -1,0 +1,12 @@
+{
+  "files": {
+    "meetings.json": "e32cd4e4cf0c62ffece607238182874ad1fad91c16ef7c5490598cc6f2613c38",
+    "summaries.json": "6109505b1398cb6f53982ed3242282c5ae178a16c3e1409632ea498fddcc67f0",
+    "proposals.json": "22173a12430124596bcee99448753f0c5e3897155fae9048047e66859d171f31",
+    "members.json": "a71b1b66c60a372125ee9ef959bf35353a703f6ead09c189838e1733b5f7fa39",
+    "reviews.json": "6490fd45d706256cf4401c39d7ba9825bb2f6bf3701c4bcc596317836b22bb11",
+    "review_policy.json": "b0f55416ca043df06385a4db94d02a0aa218fc2bc4c829b4807b6e3e8a0653aa",
+    "schema.json": "80f108f3238b3166b68ea8ea853e1b2a2ab76e2b35e6c63275a623e539eb7663"
+  },
+  "synthetic": true
+}
